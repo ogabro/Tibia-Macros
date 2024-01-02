@@ -17,7 +17,7 @@ end
 UI.Separator()
 UI.Label("Imp Functions")
 
-local toFollow = "Kos Omac"
+local toFollow = "Enter Char Name"
 local toFollowPos = {}
 
 local followMacro = macro(20, "Follow Player", function()
